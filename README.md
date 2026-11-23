@@ -16,3 +16,5 @@
 
 ## terraform
 - [apply 도중 끊겼을 때](terraform/interrupted-apply.md)
+
+글은 직접 겪은 일을 바탕으로 쓰고, 정리와 사실 확인에 AI를 함께 썼습니다.
